@@ -1,3 +1,4 @@
-# Sentiment Analysis with BERT
+## Sentiment Analysis with BERT
 
-To-do: Fix the documentation.
+# To-do:
+- Finish fixing the documentation.
